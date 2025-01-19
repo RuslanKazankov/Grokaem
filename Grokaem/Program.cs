@@ -8,7 +8,8 @@ internal class Program
     {
         Console.WriteLine("Grokaem algorithms!");
 
-        TestSortOfSelect();
+        
+        //TestSortOfSelect();
         //TestSimpleBinarySearch();
         //TestBinarySearch();
     }
